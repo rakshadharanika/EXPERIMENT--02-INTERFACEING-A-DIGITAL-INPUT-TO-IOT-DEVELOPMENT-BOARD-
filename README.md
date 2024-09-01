@@ -105,7 +105,7 @@ else
 
 ## Output  :
  
-
+ ![image](https://github.com/user-attachments/assets/70c905fa-bfce-456e-81fb-9e7650e5d214)
  
  
  
